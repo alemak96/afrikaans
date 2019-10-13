@@ -1,2 +1,4 @@
-# afrikaans
-a cute attempt at a programming language
+# Afrikaans
+
+## Introduction
+A cute attempt at a programming language.
